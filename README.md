@@ -1,12 +1,12 @@
 # Epub Upload Compatibilty Plugin
 
-Contributors: Premazon Inc
-Tags: epub, uploads, media library, woocommerce, ebook
-Requires at least: 6.0
-Tested up to: 6.8
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
+Contributors: Premazon Inc  
+Tags: epub, uploads, media library, woocommerce, ebook  
+Requires at least: 6.0  
+Tested up to: 6.8  
+Requires PHP: 7.4  
+Stable tag: 1.0.0  
+License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds EPUB file upload support to the WordPress Media Library for use with WooCommerce downloadable products and other WordPress content.
@@ -111,7 +111,7 @@ As with all downloadable files, site administrators should only upload EPUB file
 
 ## Author
 
-**Premazon Inc**
+**Premazon Inc**, Arthur Reeder
 
 ## License
 
